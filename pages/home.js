@@ -29,7 +29,7 @@ function renderDesktopNav(isDark) {
     return `
         <nav class="navbar">
             <div class="nav-left">
-                <a href="/" class="nav-brand" data-link>Yode</a>
+                <a href="/" class="nav-brand" data-link></a>
                 <div class="nav-links">
                     <a href="/works" class="nav-link" data-link>Works</a>
                     <a href="/contact" class="nav-link" data-link>Contact</a>
@@ -162,9 +162,7 @@ function renderFooter(isDark) {
                 <a href="https://instagram.com/yourhandle" target="_blank" class="footer-link">
                     Instagram
                 </a>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" class="footer-link">
-                    LinkedIn
-                </a>
+                
             </div>
         </footer>
     `;
@@ -174,7 +172,7 @@ function renderMobileNav(isDark) {
     return `
         <nav class="navbar">
             <div class="nav-left">
-                <a href="/" class="nav-brand" data-link>Yode</a>
+                <a href="/" class="nav-brand" data-link>IMTS</a>
             </div>
 
             <div style="display: flex; align-items: center; gap: 16px;">
@@ -287,9 +285,7 @@ function renderMobileContent(isDark) {
                 <a href="https://instagram.com/yourhandle" target="_blank" style="color: ${isDark ? '#f0f0f0' : '#1a1a1a'}; opacity: 0.8; text-decoration: none; font-size: 0.95rem;">
                     Instagram
                 </a>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" style="color: ${isDark ? '#f0f0f0' : '#1a1a1a'}; opacity: 0.8; text-decoration: none; font-size: 0.95rem;">
-                    LinkedIn
-                </a>
+               
             </div>
         </div>
     `;

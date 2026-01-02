@@ -25,9 +25,7 @@ async function renderContact() {
                         <a href="https://instagram.com/yourhandle" target="_blank">
                             <i data-lucide="instagram"></i>
                         </a>
-                        <a href="https://linkedin.com/in/yourprofile" target="_blank">
-                            <i data-lucide="linkedin"></i>
-                        </a>
+                    
                     </div>
                 </div>
                 
