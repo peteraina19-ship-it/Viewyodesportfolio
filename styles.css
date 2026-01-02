@@ -689,7 +689,9 @@ body.light .response-time {
     padding: 100px 20px;
     text-align: center;
 }
-
+.pic{
+    margin-top: 100px;
+}
 /* Responsive */
 @media (max-width: 768px) {
     .navbar {

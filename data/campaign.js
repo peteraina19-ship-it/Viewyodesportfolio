@@ -10,7 +10,7 @@ const campaigns = [
         thumbnail: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop',
         images: [
             'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1200&auto=format&fit=crop',
-            'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w-1200&auto=format&fit=crop',
+            'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=1200&auto=format&fit=crop',
             'https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=1200&auto=format&fit=crop'
         ]
     },
@@ -22,7 +22,7 @@ const campaigns = [
         client: 'Apple',
         role: 'In-house Director',
         description: 'Intimate portrait series highlighting the seamless integration of technology into everyday life.',
-        thumbnail: 'https://images.unsplash.com/photo-1434493650001-5d43a6fea0a3?w=800&auto=format&fit=crop',
+        thumbnail: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop',
         images: [
             'https://images.unsplash.com/photo-1434493650001-5d43a6fea0a3?w=1200&auto=format&fit=crop',
             'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1200&auto=format&fit=crop',
@@ -54,7 +54,7 @@ const campaigns = [
         description: 'Futuristic automotive photography merging sleek design with sustainable technology narratives.',
         thumbnail: 'https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&auto=format&fit=crop',
         images: [
-            'https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&auto=format&fit=crop',
+            'https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200&auto=format&fit=crop',
             'https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=1200&auto=format&fit=crop',
             'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1200&auto=format&fit=crop'
         ]

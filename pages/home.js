@@ -208,13 +208,13 @@ function renderMobileContent(isDark) {
         <div style="padding-top: 100px; padding: 24px;">
             <!-- Hero Section -->
             <div style="margin-bottom: 48px">
-                <div style="position: relative; border-radius: 20px; overflow: hidden; aspect-ratio: 4/5; margin-bottom: 32px;">
-                    <img src="${profileImage}" alt="Yode" style="width: 100%; height: 100%; object-fit: cover; filter: brightness(0.88) contrast(1.05);">
+                <div style="position: relative; border-radius: 20px; overflow: hidden; margin-top: 100px ;aspect-ratio: 4/5; margin-bottom: 32px;">
+                    <img src="${profileImage}" alt="Yode" class:"pic" style="  margin-top: px;width: 100%; height: 100%; object-fit: cover; filter: brightness(0.88) contrast(1.05);">
                     <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.6), transparent 50%);"></div>
                 </div>
 
                 <h1 style="font-size: 2.5rem; font-weight: 700; line-height: 1.1; margin-bottom: 20px; letter-spacing: -0.02em;">
-                    Yode
+                    Adebolu Oluwasegun Prosper
                 </h1>
                 
                 <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 24px; opacity: 0.9;">
@@ -234,11 +234,7 @@ function renderMobileContent(isDark) {
                         </button>
                     </a>
                     
-                    <a href="/contact" data-link>
-                        <button style="width: 100%; padding: 16px; border-radius: 50px; background: transparent; font-size: 1.1rem; font-weight: 600; border: 2px solid ${isDark ? 'rgba(255,255,255,0.3)' : 'rgba(0,0,0,0.3)'}; color: ${isDark ? '#f0f0f0' : '#1a1a1a'}">
-                            Contact Me
-                        </button>
-                    </a>
+             
                 </div>
             </div>
 
