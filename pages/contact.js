@@ -17,12 +17,12 @@ async function renderContact() {
                 </p>
                 
                 <div class="contact-actions">
-                    <a href="mailto:hello@marvellousobasanya.com" class="email-link">
-                        <i data-lucide="mail"></i> hello@marvellousobasanya.com
+                    <a href="mailto:peteraina19@gmail.com" class="email-link">
+                        <i data-lucide="mail"></i> peteraina19@gmail.com
                     </a>
                     
                     <div class="social-links">
-                        <a href="https://instagram.com/yourhandle" target="_blank">
+                        <a href="https://instagram.com/peteraina_201" target="_blank">
                             <i data-lucide="instagram"></i>
                         </a>
                     
